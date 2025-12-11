@@ -115,13 +115,6 @@ WinformPhoneManagement/
 - 📷 OPPO (Dòng A, F)
 - 💎 Vertu (Điện thoại cao cấp)
 
-## 📄 Giấy Phép
-
-Dự án này được cấp phép theo Giấy phép MIT - xem file [LICENSE](LICENSE) để biết chi tiết.
-
-## 👥 Tác Giả
-
-- **Axyl1410** - *Phát triển ban đầu* - [GitHub Profile](https://github.com/Axyl1410)
 
 ---
 

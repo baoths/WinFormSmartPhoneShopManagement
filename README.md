@@ -115,13 +115,6 @@ The application uses SQL Server with the following tables:
 - 📷 OPPO (A, F series)
 - 💎 Vertu (Luxury phones)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Axyl1410** - *Initial work* - [GitHub Profile](https://github.com/Axyl1410)
 
 ---
 
